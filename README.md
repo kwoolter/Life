@@ -22,10 +22,10 @@ Life - java cell simulation by kwoolter
 <table>
 <tr>
 <td>
-<img height=300 width=200 src="https://github.com/kwoolter/Life/blob/master/src/life/View/screenshots/gospers.PNG" alt="gospers">
+<img height=300 width=300 src="https://github.com/kwoolter/Life/blob/master/src/life/View/screenshots/gospers.PNG" alt="gospers">
 </td>
 <td>
-<img height=300 width=200 src="https://github.com/kwoolter/Life/blob/master/src/life/View/screenshots/jack.PNG" alt="jack">
+<img height=300 width=300 src="https://github.com/kwoolter/Life/blob/master/src/life/View/screenshots/Jack.PNG" alt="jack">
 </td>
 </tr>
 </table>
