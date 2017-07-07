@@ -18,7 +18,6 @@ Life - java cell simulation by kwoolter
 - src\Life\resources - contains some images that you can load and then run the Life simulation on
 
 ## Screenshots
-</br>
 <table>
 <tr>
 <td>
