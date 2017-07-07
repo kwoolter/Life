@@ -29,5 +29,3 @@ Life - java cell simulation by kwoolter
 </td>
 </tr>
 </table>
-
-
