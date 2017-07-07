@@ -22,10 +22,10 @@ Life - java cell simulation by kwoolter
 <table>
 <tr>
 <td>
-<img height=300 width=200 src="https://github.com/kwoolter/ZeldaQuest/blob/master/view/screenshots/ZeldaQuest1.PNG" alt="game1">
+<img height=300 width=200 src="https://github.com/kwoolter/Life/blob/master/src/life/View/screenshots/gospers.PNG" alt="gospers">
 </td>
 <td>
-<img height=300 width=200 src="https://github.com/kwoolter/ZeldaQuest/blob/master/view/screenshots/ZeldaQuest2.PNG" alt="game2">
+<img height=300 width=200 src="https://github.com/kwoolter/Life/blob/master/src/life/View/screenshots/jack.PNG" alt="jack">
 </td>
 </tr>
 </table>
